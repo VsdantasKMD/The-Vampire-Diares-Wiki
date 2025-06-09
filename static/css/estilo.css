@@ -105,4 +105,5 @@ a{
 .foto_extra{
     width: 252px;
     height: 290px;
+    object-fit: cover;
 }
